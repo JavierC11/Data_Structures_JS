@@ -1,0 +1,13 @@
+¿Los arrays de JS son?
+Ambos	
+
+¿Cuál es el nombre que reciben los siguientes niveles de un Binary Tree?
+Sub-Parents
+Leafs
+
+no es ninguna de las dos
+
+
+¿Cuál es el patrón de un Stack?
+FILO 
+NO ES FILO tiende a confundirme pero es muy similar solemtne es LAST OF IN FIST ON OUT
